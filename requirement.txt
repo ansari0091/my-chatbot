@@ -1,0 +1,13 @@
+# AI Girlfriend Streamlit App
+
+This is a Streamlit application that lets you chat with your AI Girlfriend powered by PygMalion.
+
+## How to deploy:
+
+1. Push this repository to GitHub.
+2. Log in to Streamlit Cloud (https://streamlit.io/).
+3. Connect Streamlit with your repository.
+4. Streamlit will deploy the application.
+5. You'll get a link to chat directly with your AI Girlfriend.
+
+✨ Enjoy! ❤️
